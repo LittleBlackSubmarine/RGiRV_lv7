@@ -12,7 +12,7 @@ while n < 1 or n > 5:
 target_path = "./3D modeli/bunny.ply"
 source_path = "./3D modeli/bunny_t" + str(n) + ".ply"
 
-cnt = 0
+first = True
 
 print("\nExit windows using 'X' in right top corner or using 'q' button\n")
 print("\n CLOSE THE SOURCE WINDOW FIRST!\n")
@@ -136,7 +136,7 @@ for iteration in iterations:
 
         window_t.Render()
         window_t.SetWindowName("TargetPicture_" + str(n) + " It: " + str(iteration) + " Lm: " + str(landmark))
-        if cnt == 0:
+        if first:
             window_s.Render()
             window_s.SetWindowName("SourcePicture_" + str(n))
             window_s_interactor.Start()
@@ -145,7 +145,7 @@ for iteration in iterations:
         else:
             window_t_interactor.Start()
 
-        cnt += 1
+        first = False
 
 
 
