@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e97bf3e5-9059-4a77-94b8-fa9266348c6b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XOmoBEmFv4Dn7Py2FAbzrtUt4B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VTK-8.2.0/VTK-8.2.0" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RunManager">
+    <configuration name="iterative_closest_point_algortihm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="rgrv_lv7" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iterative_closest_point_algortihm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.iterative_closest_point_algortihm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e97bf3e5-9059-4a77-94b8-fa9266348c6b" name="Default Changelist" comment="" />
+      <created>1580925687161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580925687161</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="718" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580926925474">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="718" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1920.1050@0.30.1920.1050" timestamp="1580926925474" />
+    <state x="319" y="331" key="FileChooserDialogImpl" timestamp="1580933566633">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="319" y="331" key="FileChooserDialogImpl/0.30.1920.1050@0.30.1920.1050" timestamp="1580933566633" />
+    <state width="1899" height="309" key="GridCell.Tab.0.bottom" timestamp="1580946011276">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="309" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1580946011276" />
+    <state width="910" height="710" key="GridCell.Tab.0.bottom/0.30.1920.1050@0.30.1920.1050" timestamp="1580942722537" />
+    <state width="1899" height="309" key="GridCell.Tab.0.center" timestamp="1580946011276">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="309" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1580946011276" />
+    <state width="910" height="710" key="GridCell.Tab.0.center/0.30.1920.1050@0.30.1920.1050" timestamp="1580942722536" />
+    <state width="1899" height="309" key="GridCell.Tab.0.left" timestamp="1580946011276">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="309" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1580946011276" />
+    <state width="910" height="710" key="GridCell.Tab.0.left/0.30.1920.1050@0.30.1920.1050" timestamp="1580942722536" />
+    <state width="1899" height="309" key="GridCell.Tab.0.right" timestamp="1580946011276">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1899" height="309" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1580946011276" />
+    <state width="910" height="710" key="GridCell.Tab.0.right/0.30.1920.1050@0.30.1920.1050" timestamp="1580942722537" />
+    <state x="669" y="228" key="SettingsEditor" timestamp="1580944200806">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="669" y="228" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1580944200806" />
+    <state x="669" y="258" key="SettingsEditor/0.30.1920.1050@0.30.1920.1050" timestamp="1580933618215" />
+    <state x="636" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1580985969442">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="636" y="380" key="com.intellij.ide.util.TipDialog/0.30.1920.1050@0.30.1920.1050" timestamp="1580985969442" />
+    <state x="106" y="261" width="672" height="678" key="search.everywhere.popup" timestamp="1580934893081">
+      <screen x="0" y="30" width="1920" height="1050" />
+    </state>
+    <state x="106" y="261" width="672" height="678" key="search.everywhere.popup/0.30.1920.1050@0.30.1920.1050" timestamp="1580934893081" />
+  </component>
+</project>
